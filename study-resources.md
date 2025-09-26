@@ -34,17 +34,17 @@
   - Search up online questions you may have trouble with
 
 ## Class Schedule
-```
-    |Monday|Tuesday|Wednesday|Thursday|Friday|
-    |``````|```````|`````````|````````|``````|
-8am |      |       |OPS102   |        |      |
-9am |MTH140|       |OPS102   |        |MTH140|
-10am|MTH140|IPC144 |OPS102   |IPC144  |MTH140|
-11am|MTH140|IPC144 |         |IPC144  |MTH140|
-12am|APS145|IPC144 |         |IPC144  |CEP146|
-1pm |APS145|       |         |IPC144  |CEP146|
-2pm |APS145|       |         |OPS102  |CEP146|
-3pm |      |       |         |OPS102  |CEP146|
-4pm |      |       |         |OPS102  |      |
-```
+
+|MON |Monday|Tuesday|Wednesday|Thursday|Friday|
+|----|------|-------|---------|--------|------|
+|8am |      |       |OPS102   |        |      |
+|9am |MTH140|       |OPS102   |        |MTH140|
+|10am|MTH140|IPC144 |OPS102   |IPC144  |MTH140|
+|11am|MTH140|IPC144 |         |IPC144  |MTH140|
+|12am|APS145|IPC144 |         |IPC144  |CEP146|
+|1pm |APS145|       |         |IPC144  |CEP146|
+|2pm |APS145|       |         |OPS102  |CEP146|
+|3pm |      |       |         |OPS102  |CEP146|
+|4pm |      |       |         |OPS102  |      |
+
 
