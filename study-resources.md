@@ -19,14 +19,14 @@
 ## Tools I Use
 
 - Web Browsers I Personally Use
-  - Google Chrome
-  - Microsoft Edge
-  - Opera GX (Gaming Browser)
+  - [Google Chrome](https://www.google.com/chrome/what-you-make-of-it/)
+  - [Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ)
+  - [Opera GX](https://www.opera.com/gx/gx-browser?utm_id=CjwKCAjw89jGBhB0EiwA2o1On9aj9SYbhYmEoFffp39Zoi0PVc_Su7r_Kmg_sZtOilbNDuiNjzjHrBoCykMQAvD_BwE&utm_medium=pa&utm_source=google&utm_campaign=OGX_CA_Search_EN_T1_Brand_V2&utm_content=634259713869&gad_source=1&gad_campaignid=18888281968&gbraid=0AAAAAo7P2o5yokZEzd-BJSQ4MzOzuoMR7&gclid=CjwKCAjw89jGBhB0EiwA2o1On9aj9SYbhYmEoFffp39Zoi0PVc_Su7r_Kmg_sZtOilbNDuiNjzjHrBoCykMQAvD_BwE) (Gaming Browser)
  
     
 -  **Text Editors**
-   - Google Docs (https://docs.google.com)
-   - Microsoft Word (https://word.cloud.microsoft)
+   - [Google Docs](https://docs.google.com)
+   - [Microsoft Word](https://word.cloud.microsoft)
    - Notepad (I am a Windows user so it may be different for Mac users).
 - **Note Taking Methods I Prefer**
   - Taking notes while teacher is speaking
