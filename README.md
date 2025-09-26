@@ -9,7 +9,7 @@ Welcome to my academic portfolio for (put your course name and section here)!
 - Name: **Mark Limbo** 
 - Program: **CEP146**
 - Year: **Year 1**, **Semester 1**
-- Favorite Programming Language: **C++** (Only Language I Know Of)
+- Favorite Programming Language: **C++** *(Only Language I Know Of)*
  
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
